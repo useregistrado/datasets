@@ -11,7 +11,7 @@ Este dataset contiene una amplia colección de nombres de mujeres hispanohablant
 
 ## Características
 
-- **Total de registros**: +500 nombres únicos.
+- **Total de registros**: +750 nombres únicos y con variantes.
 - **Formato de archivo**: CSV.
 - **Fuentes**: Registros civiles, bases de datos demográficas y estudios lingüísticos.
 
