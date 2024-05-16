@@ -7,7 +7,7 @@ Este dataset contiene una amplia colección de nombres de mujeres hispanohablant
 ## Contenido del Dataset
 
 - **Nombre**: Nombre propio de la persona.
-- **Nombre sin acentos**: País de habla hispana asociado con el nombre.
+- **Nombre sin acentos**: Nombre propio de la persona sin acentos o tildes
 
 ## Características
 
